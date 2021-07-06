@@ -162,6 +162,7 @@ footer p{
 
 @media only screen and (max-width: 440px) {
 
+    
     .menu-area .logo{
         margin-left:0px ;
         font-size: 100px;
@@ -171,17 +172,16 @@ footer p{
 
     .menu{
         flex-direction: column;
+        
+        
 
 
         
     }
+    
 
-    .menu-area .logo{
-        margin-left:0px ;
-        font-size: 80px;
-        width: 20%;
-        
-    }
+    
+    
 
 }
 
@@ -190,7 +190,8 @@ footer p{
     .menu-area{
         flex-direction: column;
         align-items: center;
-        height: 280px;
+        height: 350px;
+       
         
         
     }
